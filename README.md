@@ -1,29 +1,28 @@
 # ReadMeGenerator
-<h2>Description</h2>
-<p>Description</p>
+undefined
 
-<h2>Table of Contents</h2>
-    <li>Installation Instructions</li>
-    <li>Usage Information</li>
-    <li>Contributions</li>
-    <li>Testing Instructions</li>
-    <li>Licensing Information</li>
-    <li>Contact</li>
 
-<h2>Installation Instructions</h2>
-<p>Installation Instructions</p>
+## Description
+This project is a way for me to quickly and efficently create a README file by using my terminal.
 
-<h2>Usage Information</h2>
-<p>Usage Information</p>
-
-<h2>Contributions</h2>
-<p>Contributions</p>
-
-<h2>Testing Instructions</h2>
-<p>Testing Instructions</p>
-
-<h2>Licensing Information</h2>
-<p>Licensing Information</p>
-
-<h2>Contact</h2>
-<p>Contact</p>
+## Table of Contents
+  1. [Installation Instructions](#installation)
+  2. [Usage Information](#usage)
+  3. [Contribution Guidelines](#contribution)
+  4. [Tests](#tests)
+  5. [License information](#Licensing)
+  6. [Questions](#questions)
+  ## Installation
+  I used inquirer as well as run npm i
+  ## Usage
+  This project is ran through node index.js
+  ## Contribution
+  undefined
+  ## Tests
+  There are no testing instructions for this project
+  ## Licensing
+  undefined
+  ## Questions
+  If you have any further questions, 
+   - You can email me at: tonymsanto@gmail.com
+   - You can find my GitHub at: [Tonymsanto](https://github.com/Tonymsanto)
